@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node .",
+    "update": "git pull && refresh"
   },
   "dependencies": {
     "express": "^4.17.1",
