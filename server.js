@@ -16,7 +16,7 @@ app.get("/arc-sw.js", function(request, response) {
   response.sendFile(__dirname + "/arc-sw.js");
 });
 
-app.get("/update", function(request, response) {
+app.post("/update", function(request, response) {
   request.on("data", function(chunk) {
     let sig =
       "sha1=" +
