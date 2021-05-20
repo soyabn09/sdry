@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="A shop template ¯\_(ツ)_/¯" />
         <meta name="author" content="Soyab Nandhla" />
-        <title>Shop Homepage - Start Bootstrap Template</title>
+        <title>SDRY - Home</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
@@ -36,7 +36,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
-                    <h1 class="my-4">Shop Name</h1>
+                    <h1 class="my-4">SDRY</h1>
                     <div class="list-group">
                         <a class="list-group-item" href="#!">Category 1</a>
                         <a class="list-group-item" href="#!">Category 2</a>
