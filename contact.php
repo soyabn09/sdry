@@ -49,7 +49,7 @@
                     Company:  <a href="https://soyabnandhla.me">Soyab Nandhla</a>
                     </div>
                     <div class="find-widget">
-                    Address: <a href="#">10 Downing Street. London, UK</a>
+                    Address: <a href="#">10 Downing Street, London, UK</a>
                     </div>
                     <div class="find-widget">
                     Phone:  <a href="#">+44 20 7946 0985</a>
