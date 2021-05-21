@@ -15,7 +15,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
-                <a class="navbar-brand" href="#!">SDRY</a>
+                <a class="navbar-brand" href="/">SDRY</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
@@ -39,7 +39,7 @@
                     <h1 class="my-4">SDRY</h1>
                     <div class="list-group">
                         <ul id="myUL">
-                            <li><a class="list-group-item" onclick="filterSelection('all')">In Stock</a></li>
+                            <li><a class="list-group-item" onclick="filterSelection('all')">All</a></li>
                             <li><a class="list-group-item" onclick="filterSelection('stock')">In Stock</a></li>
                             <li><a class="list-group-item" onclick="filterSelection('released')">Just In</a></li>
                             <li><a class="list-group-item" onclick="filterSelection('gifts')">Gifts</a></li>
@@ -73,7 +73,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#!">Item One</a></h4>
+                                    <h4 class="card-title"><a href="#">Item One</a></h4>
                                     <h5>$24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -84,7 +84,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#!">Item Two</a></h4>
+                                    <h4 class="card-title"><a href="#">Item Two</a></h4>
                                     <h5>$24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
                                 </div>
@@ -95,7 +95,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#!">Item Three</a></h4>
+                                    <h4 class="card-title"><a href="#">Item Three</a></h4>
                                     <h5>$24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -106,7 +106,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#!">Item Four</a></h4>
+                                    <h4 class="card-title"><a href="#">Item Four</a></h4>
                                     <h5>$24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -117,7 +117,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#!">Item Five</a></h4>
+                                    <h4 class="card-title"><a href="#">Item Five</a></h4>
                                     <h5>$24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
                                 </div>
@@ -128,7 +128,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#!">Item Six</a></h4>
+                                    <h4 class="card-title"><a href="#">Item Six</a></h4>
                                     <h5>$24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -139,7 +139,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#!">Item Six</a></h4>
+                                    <h4 class="card-title"><a href="#">Item Six</a></h4>
                                     <h5>$24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -150,7 +150,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#!">Item Six</a></h4>
+                                    <h4 class="card-title"><a href="#">Item Six</a></h4>
                                     <h5>$24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
