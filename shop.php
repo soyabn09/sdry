@@ -38,9 +38,10 @@
                 <div class="col-lg-3">
                     <h1 class="my-4">SDRY</h1>
                     <div class="list-group">
-                        <a class="list-group-item" href="#!">Category 1</a>
-                        <a class="list-group-item" href="#!">Category 2</a>
-                        <a class="list-group-item" href="#!">Category 3</a>
+                        <a class="list-group-item" onclick="filterSelection('stock')">In Stock</a>
+                        <a class="list-group-item" onclick="filterSelection('released')">Just In</a>
+                        <a class="list-group-item" onclick="filterSelection('gifts')">Gifts</a>
+                        <a class="list-group-item" onclick="filterSelection('season')">Seasonal</a>
                     </div>
                 </div>
                 <div class="col-lg-9">
@@ -76,7 +77,7 @@
                                 <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
@@ -87,7 +88,7 @@
                                 <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
@@ -98,7 +99,7 @@
                                 <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
@@ -120,7 +121,29 @@
                                 <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
+                            <div class="card h-100">
+                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <div class="card-body">
+                                    <h4 class="card-title"><a href="#!">Item Six</a></h4>
+                                    <h5>$24.99</h5>
+                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                </div>
+                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
+                            <div class="card h-100">
+                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <div class="card-body">
+                                    <h4 class="card-title"><a href="#!">Item Six</a></h4>
+                                    <h5>$24.99</h5>
+                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                </div>
+                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
