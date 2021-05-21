@@ -6,7 +6,7 @@
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
 
-filterSelection("all");
+filterSelection("all")
 function filterSelection(c) {
   var x, i;
   x = document.getElementsByClassName("filterDiv");
@@ -48,10 +48,7 @@ var btns = document.getElementsByClassName("list-group-item");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
     var current = document.getElementsByClassName("active");
-    console.log(current);
-    console.log(current[0]);
-    current[0].className.replace("list-group-item active", "list-group-item");
-    console.log(current[0]);
+    current[0].className = current[0].className.replace(" active", "");
     this.className += " active";
   });
 }
