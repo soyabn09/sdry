@@ -46,19 +46,19 @@
                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content.</p>
 
                     <div class="find-widget">
-                    Company:  <a href="https://hostriver.ro">HostRiver</a>
+                    Company:  <a href="https://soyabnandhla.me">Soyab Nandhla</a>
                     </div>
                     <div class="find-widget">
-                    Address: <a href="#">4435 Berkshire Circle Knoxville</a>
+                    Address: <a href="#">10 Downing Street. London, UK</a>
                     </div>
                     <div class="find-widget">
-                    Phone:  <a href="#">+ 879-890-9767</a>
+                    Phone:  <a href="#">+44 20 7946 0985</a>
                     </div>
                     <div class="find-widget">
-                    Website:  <a href="https://uny.ro">www.uny.ro</a>
+                    Website:  <a href="https://sdry.online">sdry.online</a>
                     </div>
                     <div class="find-widget">
-                    Program: <a href="#">Mon to Sat: 09:30 AM - 10.30 PM</a>
+                    Available: <a href="#">Mon to Sat: 09:30 AM - 10.30 PM</a>
                     </div>
                 </div>
                 <!-- contact form -->
@@ -90,7 +90,7 @@
                         </div>
                         <!-- Form Submit -->
                         <div class="form-submit mt-5">
-                            <button class="btn btn-common" type="submit" id="form-submit"><i class="material-icons mdi mdi-message-outline"></i> Send Message</button>
+                            <button class="btn btn-common bg-grey" type="submit" id="form-submit"><i class="material-icons mdi mdi-message-outline"></i> Send Message</button>
                             <div id="msgSubmit" class="h3 text-center hidden"></div>
                             <div class="clearfix"></div>
                         </div>
