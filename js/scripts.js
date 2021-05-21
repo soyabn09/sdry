@@ -6,7 +6,7 @@
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
 
-filterSelection("all")
+window.onload = filterSelection("all");
 function filterSelection(c) {
   var x, i;
   x = document.getElementsByClassName("filterDiv");
