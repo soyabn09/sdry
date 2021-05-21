@@ -47,12 +47,10 @@ function w3RemoveClass(element, name) {
 var btns = document.getElementsByClassName("list-group-item");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
-    console.log("1");
     var current = document.getElementsByClassName("active");
-    console.log("2");
+    console.log(current);
+    console.log(current[0]);
     current[0].className = current[0].className.replace(" active", "");
-    console.log("3");
-    this.className = "list-group-item active";
-    console.log("4");
+    this.className += " active";
   });
 }
