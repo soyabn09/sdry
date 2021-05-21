@@ -10032,3 +10032,7 @@ h3 {
   color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
 }
+
+.list-group-item.active {
+  background-color: #f8f8f89a !important;
+}

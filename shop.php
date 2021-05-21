@@ -39,6 +39,7 @@
                     <h1 class="my-4">SDRY</h1>
                     <div class="list-group">
                         <ul id="myUL">
+                            <li><a class="list-group-item" onclick="filterSelection('all')">In Stock</a></li>
                             <li><a class="list-group-item" onclick="filterSelection('stock')">In Stock</a></li>
                             <li><a class="list-group-item" onclick="filterSelection('released')">Just In</a></li>
                             <li><a class="list-group-item" onclick="filterSelection('gifts')">Gifts</a></li>
