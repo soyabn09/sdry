@@ -10036,3 +10036,23 @@ h3 {
 .list-group-item.active {
   background-color: #dddddd15 !important;
 }
+
+.container1 {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 0px;
+  background-color: #e50000;
+  padding: 10px 0;
+}
+
+@media screen and (max-width: 600px) {
+  .container1 {
+    grid-template-columns: none;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .container1 {
+    grid-template-columns: auto auto;
+  }
+}

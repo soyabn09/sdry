@@ -40,7 +40,7 @@
         </header>
 
         <!-- Page Content -->
-        <div class="container">
+        <div class="container1">
         <div class="row">
             <!-- Team Member 1 -->
             <div class="col-xl-3 col-md-6 mb-4">
