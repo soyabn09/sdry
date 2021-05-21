@@ -40,8 +40,8 @@
         </header>
 
         <!-- Page Content -->
-        <div class="container1">
-        <div class="row">
+        <div class="container1 mt-5">
+        <div class="row mt-5 mb-5 mx-5">
             <!-- Team Member 1 -->
             <div class="col-xl-3 col-md-6 mb-4">
             <div class="card border-0 shadow">
