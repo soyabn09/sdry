@@ -51,6 +51,7 @@ for (var i = 0; i < btns.length; i++) {
     console.log(current);
     console.log(current[0]);
     current[0].className.replace("list-group-item active", "list-group-item");
+    console.log(current[0]);
     this.className += " active";
   });
 }
