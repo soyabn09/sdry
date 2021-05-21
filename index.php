@@ -121,7 +121,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 hidden">
-                            <div class="card h-100">
+                            <div class="card h-100 hidden">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
                                     <h4 class="card-title"><a href="#!">Item Six</a></h4>
