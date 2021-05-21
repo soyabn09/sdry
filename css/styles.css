@@ -10006,3 +10006,11 @@ h3 {
     border-color: #dee2e6;
   }
 }
+
+.filterDiv {
+  display: none; /* Hidden by default */
+}
+
+.show {
+  display: block;
+}
