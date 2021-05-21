@@ -38,10 +38,12 @@
                 <div class="col-lg-3">
                     <h1 class="my-4">SDRY</h1>
                     <div class="list-group">
-                        <a class="list-group-item" onclick="filterSelection('stock')">In Stock</a>
-                        <a class="list-group-item" onclick="filterSelection('released')">Just In</a>
-                        <a class="list-group-item" onclick="filterSelection('gifts')">Gifts</a>
-                        <a class="list-group-item" onclick="filterSelection('season')">Seasonal</a>
+                        <ul id="myUL">
+                            <li><a class="list-group-item" onclick="filterSelection('stock')">In Stock</a></li>
+                            <li><a class="list-group-item" onclick="filterSelection('released')">Just In</a></li>
+                            <li><a class="list-group-item" onclick="filterSelection('gifts')">Gifts</a></li>
+                            <li><a class="list-group-item" onclick="filterSelection('season')">Seasonal</a></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-lg-9">
