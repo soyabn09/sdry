@@ -46,7 +46,7 @@
                     <!-- Grid column -->
                     <!-- Grid column -->
                     <div class="col-lg-7">
-                    <p class="mt-4 mt-lg-0">This is not us and not our company but who cares anyway. This text is here for no reason at all other than making it look like there is a beauty about the page being here. This so-called company makes 0 $,£,€ or whatever currency you use in whatever place you live at. Btw we use DNW (Do no work) currency because that is what I intend to do.</p>
+                        <p>This is not us and not our company but who cares anyway. This text is here for no reason at all other than making it look like there is a beauty about the page being here. This so-called company makes 0 $,£,€ or whatever currency you use in whatever place you live at. Btw we use DNW (Do no work) currency because that is what I intend to do.</p>
                         <p>More random nonsense to type here and so let me just see what I can do about it. Ah, I have an idea let's get my auto-correct feature on my phone to type some random words into this paragraph or even better idea get the full bee story from the web and somehow paste it in here without causing issues as I do not want to fix issues with this paragraph as I would be here all day writing up the perfect bee story by fixing the error that HTML should learn to fix all by itself. I could also get someone to write about how I will be doing those things for free, and no that is not free labour but what I would call it is um ah who cares free labour it is.</p>
                     </div>
                     <!-- Grid column -->
