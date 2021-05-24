@@ -68,6 +68,7 @@
                             <span class="sr-only">Next</span>
                         </a>
                     </div>
+                    <?php include 'functions/rating.php' ?>
                     <div class="row">
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
                             <div class="card h-100">
@@ -77,7 +78,7 @@
                                     <h5>£97.00</h5>
                                     <p class="card-text"><span>Boss the scent Eau de Toilette for Men by Boss Fragrances is an irresistible fragrance that invades the mind and leaves an enduring mark.</span><br><br><span>For reasons of hygiene this product cannot be returned if unwrapped, unsealed or used, unless faulty.</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
@@ -88,7 +89,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
@@ -99,7 +100,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
@@ -110,7 +111,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
@@ -121,7 +122,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
@@ -132,7 +133,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
@@ -143,7 +144,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
@@ -154,7 +155,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                     </div>
