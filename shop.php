@@ -10,6 +10,7 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="/css/styles.css" rel="stylesheet" />
+        <script async src="https://arc.io/widget.min.js#BX2apmLr"></script>
     </head>
     <body>
         <!-- Navigation-->
