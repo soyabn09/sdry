@@ -75,7 +75,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title"><a>BOSS The Scent For Him Eau De Toilette</a></h4>
                                     <h5>£97.00</h5>
-                                    <p class="card-text"><span>Boss the scent Eau de Toilette for Men by Boss Fragrances is an irresistible fragrance that invades the mind and leaves an enduring mark.</span> <span>For reasons of hygiene this product cannot be returned if unwrapped, unsealed or used, unless faulty.</span></p>
+                                    <p class="card-text"><span>Boss the scent Eau de Toilette for Men by Boss Fragrances is an irresistible fragrance that invades the mind and leaves an enduring mark.</span><br><span>For reasons of hygiene this product cannot be returned if unwrapped, unsealed or used, unless faulty.</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
                             </div>
