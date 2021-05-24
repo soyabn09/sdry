@@ -6,6 +6,6 @@ $max = count($rating);
 
 $num = mt_rand(0, $max);
 
-return $rating[$num];
+return $rating[$num]." ".$num;
 
 } ?>
