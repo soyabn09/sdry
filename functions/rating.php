@@ -2,7 +2,7 @@
 
 $rating = ["★ ☆ ☆ ☆ ☆","★ ★ ☆ ☆ ☆","★ ★ ★ ☆ ☆","★ ★ ★ ★ ☆","★ ★ ★ ★ ★",];
 
-$max = count($rating);
+$max = count($rating) - 1;
 
 $num = mt_rand(0, $max);
 
