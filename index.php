@@ -91,12 +91,16 @@
                             </div>
                         </div>
                     </div>
-                    <div class="text-center text-danger mt-5">
-                        <p>Please do not read this page at all.</p>
-                    </div>
                 </div>
             </div>
         </section>
+        <div class="container">
+            <div class="text-center mt-5">
+                <h1>A Bootstrap 5 Starter Template</h1>
+                <p class="lead">A complete project boilerplate built with Bootstrap</p>
+                <p>Bootstrap v5.0.1</p>
+            </div>
+        </div>
         <!-- Footer-->
         <?php include 'functions/copyright.php' ?>
         <footer class="py-5 bg-dark">
