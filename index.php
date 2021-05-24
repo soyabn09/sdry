@@ -73,6 +73,27 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-6 col-xxl-4 mb-5">
+                        <div class="card bg-light border-0 h-100">
+                            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-code"></i></div>
+                                <h2 class="fs-4 fw-bold">Over 100+ stores</h2>
+                                <p class="mb-0">We have opened up over 100+ stores worldwide.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xxl-4 mb-5">
+                        <div class="card bg-light border-0 h-100">
+                            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-patch-check"></i></div>
+                                <h2 class="fs-4 fw-bold">A business you can trust</h2>
+                                <p class="mb-0">We have started this busienss in 1979 and have no idea of ending it.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center text-danger mt-5">
+                        <p>Please do not read this page at all.</p>
+                    </div>
                 </div>
             </div>
         </section>
