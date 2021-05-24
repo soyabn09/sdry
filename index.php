@@ -95,7 +95,7 @@
             </div>
         </section>
         <div class="container">
-            <div class="text-center text-danger mt-5">
+            <div class="text-center text-danger lead mt-5">
                 <p>Please do not read this page at all.</p>
             </div>
         </div>
