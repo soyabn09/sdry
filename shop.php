@@ -75,7 +75,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title"><a>BOSS The Scent For Him Eau De Toilette</a></h4>
                                     <h5>$97.00</h5>
-                                    <p class="card-text"><span>Boss the scent Eau de Toilette for Men by Boss Fragrances is an irresistible fragrance that invades the mind and leaves an enduring mark. It boasts an exclusive ingredient from South Africa, the aphrodisiac Maninka fruit which complex facets allude to rhum and passion fruit. Set on a virile leather base, its effect is potent, original, never to be forgotten. The fragrance opens on the aphrodisiac and spicy freshness of Ginger which provides the man who wears it with a stimulating energy.In the heart note, the aphrodisiac exotic sweetness of the African Maninka fruit invades the senses. The smoky and addictive richness of leather adds a lingering seductive warmth to the base note and conveys pure, magnetic masculinity.</span> <span>For reasons of hygiene this product cannot be returned if unwrapped, unsealed or used, unless faulty.</span></p>
+                                    <p class="card-text"><span>Boss the scent Eau de Toilette for Men by Boss Fragrances is an irresistible fragrance that invades the mind and leaves an enduring mark.</span> <span>For reasons of hygiene this product cannot be returned if unwrapped, unsealed or used, unless faulty.</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
                             </div>
