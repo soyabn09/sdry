@@ -47,19 +47,19 @@
                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content.</p>
 
                     <div class="find-widget">
-                    Company:  <a href="https://soyabnandhla.me">Soyab Nandhla</a>
+                    Company: SDRY
                     </div>
                     <div class="find-widget">
-                    Address: <a>10 Downing Street, London, UK</a>
+                    Address: 10 Downing Street, London, UK
                     </div>
                     <div class="find-widget">
-                    Phone:  <a href="tel:+442079460985">+44 20 7946 0985</a>
+                    Phone: <a href="tel:+442079460985">+44 20 7946 0985</a>
                     </div>
                     <div class="find-widget">
-                    Website:  <a href="https://sdry.online">sdry.online</a>
+                    Website: <a href="https://sdry.online">sdry.online</a>
                     </div>
                     <div class="find-widget">
-                    Available: <a>Mon to Sat: 09:30 AM - 10.30 PM</a>
+                    Available: Mon to Sat: 09:30 AM - 10.30 PM
                     </div>
                 </div>
                 <!-- contact form -->
