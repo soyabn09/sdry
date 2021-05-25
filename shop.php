@@ -93,7 +93,7 @@
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/634699s.jpg" alt="Mix/American Vintage Son31 T-Shirt" />
                                 <div class="card-body">
@@ -104,7 +104,7 @@
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
@@ -153,17 +153,6 @@
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Eight</a></h4>
-                                    <h5>£24.99</h5>
-                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
-                                </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
-                            <div class="card h-100">
-                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
-                                <div class="card-body">
-                                    <h4 class="card-title"><a>Item Nine</a></h4>
                                     <h5>£24.99</h5>
                                     <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
