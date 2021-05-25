@@ -50,16 +50,16 @@
                     Company:  <a href="https://soyabnandhla.me">Soyab Nandhla</a>
                     </div>
                     <div class="find-widget">
-                    Address: <a href="#">10 Downing Street, London, UK</a>
+                    Address: <a>10 Downing Street, London, UK</a>
                     </div>
                     <div class="find-widget">
-                    Phone:  <a href="#">+44 20 7946 0985</a>
+                    Phone:  <a href="tel:+442079460985">+44 20 7946 0985</a>
                     </div>
                     <div class="find-widget">
                     Website:  <a href="https://sdry.online">sdry.online</a>
                     </div>
                     <div class="find-widget">
-                    Available: <a href="#">Mon to Sat: 09:30 AM - 10.30 PM</a>
+                    Available: <a>Mon to Sat: 09:30 AM - 10.30 PM</a>
                     </div>
                 </div>
                 <!-- contact form -->

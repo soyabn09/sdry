@@ -71,7 +71,7 @@
                     </div>
                     <?php include 'functions/rating.php' ?>
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/L05906s.jpg" alt="BOSS The Scent For Him Eau De Toilette" />
                                 <div class="card-body">
@@ -84,11 +84,11 @@
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
                             <div class="card h-100">
-                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <img class="card-img-top" src="https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/371290s.jpg" alt="Champion Youth Black Hoodie" />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#">Item Two</a></h4>
+                                    <h4 class="card-title"><a>Champion Youth Black Hoodie</a></h4>
                                     <h5>£24.99</h5>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                                    <p class="card-text"><span>Designed with classic Champion branding. 100% Cotton.</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
@@ -97,7 +97,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#">Item Three</a></h4>
+                                    <h4 class="card-title"><a>Item Three</a></h4>
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -108,7 +108,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#">Item Four</a></h4>
+                                    <h4 class="card-title"><a>Item Four</a></h4>
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -119,7 +119,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#">Item Five</a></h4>
+                                    <h4 class="card-title"><a>Item Five</a></h4>
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
                                 </div>
@@ -130,7 +130,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#">Item Six</a></h4>
+                                    <h4 class="card-title"><a>Item Six</a></h4>
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -141,7 +141,7 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#">Item Six</a></h4>
+                                    <h4 class="card-title"><a>Item Seven</a></h4>
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
@@ -152,7 +152,18 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a href="#">Item Six</a></h4>
+                                    <h4 class="card-title"><a>Item Eight</a></h4>
+                                    <h5>£24.99</h5>
+                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                </div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
+                            <div class="card h-100">
+                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <div class="card-body">
+                                    <h4 class="card-title"><a>Item Nine</a></h4>
                                     <h5>£24.99</h5>
                                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
                                 </div>
