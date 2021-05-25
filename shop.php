@@ -71,17 +71,6 @@
                     </div>
                     <?php include 'functions/rating.php' ?>
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
-                            <div class="card h-100">
-                                <img class="card-img-top" src="https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/L05906s.jpg" alt="BOSS The Scent For Him Eau De Toilette" />
-                                <div class="card-body">
-                                    <h4 class="card-title"><a>BOSS The Scent For Him Eau De Toilette</a></h4>
-                                    <h5>£97.00</h5>
-                                    <p class="card-text"><span>Boss the scent Eau de Toilette for Men by Boss Fragrances is an irresistible fragrance that invades the mind and leaves an enduring mark.</span><br><br><span>For reasons of hygiene this product cannot be returned if unwrapped, unsealed or used, unless faulty.</span></p>
-                                </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
-                            </div>
-                        </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/371290s.jpg" alt="Champion Youth Black Hoodie" />
@@ -100,6 +89,17 @@
                                     <h4 class="card-title"><a>Mix/American Vintage Son31 T-Shirt</a></h4>
                                     <h5>£70.00</h5>
                                     <p class="card-text"><span>A wardrobe staple that you'll reach for again and again, the Mix/American Vintage T-shirt is designed with a deep V neck and close fitting shape for a flattering fit. Crafted from comfortable thick cotton that is perfect for wearing alone or layering on cooler days.</span><br><br><span>100% Cotton.</span></p>
+                                </div>
+                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
+                            <div class="card h-100">
+                                <img class="card-img-top" src="https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/L05906s.jpg" alt="BOSS The Scent For Him Eau De Toilette" />
+                                <div class="card-body">
+                                    <h4 class="card-title"><a>BOSS The Scent For Him Eau De Toilette</a></h4>
+                                    <h5>£97.00</h5>
+                                    <p class="card-text"><span>Boss the scent Eau de Toilette for Men by Boss Fragrances is an irresistible fragrance that invades the mind and leaves an enduring mark.</span><br><br><span>For reasons of hygiene this product cannot be returned if unwrapped, unsealed or used, unless faulty.</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
@@ -126,7 +126,7 @@
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
@@ -137,7 +137,7 @@
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
+                        <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
