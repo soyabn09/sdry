@@ -99,7 +99,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Three</a></h4>
                                     <h5>£24.99</h5>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
@@ -110,7 +110,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Four</a></h4>
                                     <h5>£24.99</h5>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
@@ -132,7 +132,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Six</a></h4>
                                     <h5>£24.99</h5>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
@@ -143,7 +143,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Seven</a></h4>
                                     <h5>£24.99</h5>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
@@ -154,7 +154,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Eight</a></h4>
                                     <h5>£24.99</h5>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
@@ -165,7 +165,7 @@
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Nine</a></h4>
                                     <h5>£24.99</h5>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
