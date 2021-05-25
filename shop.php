@@ -87,7 +87,7 @@
                                 <img class="card-img-top" src="https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/371290s.jpg" alt="Champion Youth Black Hoodie" />
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Champion Youth Black Hoodie</a></h4>
-                                    <h5>£24.99</h5>
+                                    <h5>£45.00</h5>
                                     <p class="card-text"><span>Designed with classic Champion branding. 100% Cotton.</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
@@ -97,9 +97,9 @@
                             <div class="card h-100">
                                 <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a>Item Three</a></h4>
-                                    <h5>£24.99</h5>
-                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
+                                    <h4 class="card-title"><a>Mix/American Vintage Son31 T-Shirt</a></h4>
+                                    <h5>£70.00</h5>
+                                    <p class="card-text"><span>A wardrobe staple that you'll reach for again and again, the Mix/American Vintage T-shirt is designed with a deep V neck and close fitting shape for a flattering fit. Crafted from comfortable thick cotton that is perfect for wearing alone or layering on cooler days.</span><br><br><span>100% Cotton.</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
