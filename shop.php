@@ -117,11 +117,11 @@
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
                             <div class="card h-100">
-                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="Item Five" />
+                                <img class="card-img-top" src="https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/M08467s.jpg" alt="GANT Blue Regular Oxford Shirt" />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a>Item Five</a></h4>
-                                    <h5>£24.99</h5>
-                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                                    <h4 class="card-title"><a>GANT Blue Regular Oxford Shirt</a></h4>
+                                    <h5>£110.00</h5>
+                                    <p class="card-text"><span>The most versatile and classic shirt in your closet, the Regular Fit Oxford Shirt is a preppy essential that can be dressed up or down. Impeccably crafted and designed to flatter, this shirt is a timeless icon that will always be in style.</span><br><br><span>Machine washable.</span><br><br><span>100% Cotton.</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
