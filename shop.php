@@ -106,18 +106,18 @@
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
                             <div class="card h-100">
-                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <img class="card-img-top" src="https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/L07744s.jpg" alt="Thomas Sabo Beaded Charm Club Bracelet" />
                                 <div class="card-body">
-                                    <h4 class="card-title"><a>Item Four</a></h4>
-                                    <h5>£24.99</h5>
-                                    <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
+                                    <h4 class="card-title"><a>Thomas Sabo Beaded Charm Club Bracelet</a></h4>
+                                    <h5>£40.00</h5>
+                                    <p class="card-text"><span>100% Silver (Sterling).</span></p>
                                 </div>
                                 <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
                             <div class="card h-100">
-                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="Item Five" />
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Five</a></h4>
                                     <h5>£24.99</h5>
@@ -128,7 +128,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
                             <div class="card h-100">
-                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="Item Six" />
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Six</a></h4>
                                     <h5>£24.99</h5>
@@ -139,7 +139,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
                             <div class="card h-100">
-                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="Item Seven" />
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Seven</a></h4>
                                     <h5>£24.99</h5>
@@ -150,7 +150,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
                             <div class="card h-100">
-                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="..." />
+                                <img class="card-img-top" src="https://via.placeholder.com/700x400" alt="Item Eight" />
                                 <div class="card-body">
                                     <h4 class="card-title"><a>Item Eight</a></h4>
                                     <h5>£24.99</h5>
