@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="A shop template ¯\_(ツ)_/¯" />
+        <meta name="description" content="SDRY Company ¯\_(ツ)_/¯" />
         <meta name="author" content="Soyab Nandhla" />
         <title>SDRY - Shop</title>
         <!-- Favicon-->
