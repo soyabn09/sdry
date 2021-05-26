@@ -74,7 +74,7 @@
                                     <h5>£45.00</h5>
                                     <p class="card-text"><span>Designed with classic Champion branding. 100% Cotton.</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                                <div class="card-footer"><small class="text-muted">☆ ☆ ☆ ☆ ☆</small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
@@ -85,7 +85,7 @@
                                     <h5>£70.00</h5>
                                     <p class="card-text"><span>A wardrobe staple that you'll reach for again and again, the Mix/American Vintage T-shirt is designed with a deep V neck and close fitting shape for a flattering fit. Crafted from comfortable thick cotton that is perfect for wearing alone or layering on cooler days.</span><br><br><span>100% Cotton.</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                                <div class="card-footer"><small class="text-muted">★ ☆ ☆ ☆ ☆</small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
@@ -96,7 +96,7 @@
                                     <h5>£97.00</h5>
                                     <p class="card-text"><span>Boss the scent Eau de Toilette for Men by Boss Fragrances is an irresistible fragrance that invades the mind and leaves an enduring mark.</span><br><br><span>For reasons of hygiene this product cannot be returned if unwrapped, unsealed or used, unless faulty.</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                                <div class="card-footer"><small class="text-muted">★ ★ ☆ ☆ ☆</small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
@@ -107,7 +107,7 @@
                                     <h5>£40.00</h5>
                                     <p class="card-text"><span>100% Silver (Sterling).</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                                <div class="card-footer"><small class="text-muted">★ ★ ★ ☆ ☆</small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
@@ -118,7 +118,7 @@
                                     <h5>£110.00</h5>
                                     <p class="card-text"><span>The most versatile and classic shirt in your closet, the Regular Fit Oxford Shirt is a preppy essential that can be dressed up or down. Impeccably crafted and designed to flatter, this shirt is a timeless icon that will always be in style.</span><br><br><span>Machine washable.</span><br><br><span>100% Cotton.</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ☆</small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
@@ -129,7 +129,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                                <div class="card-footer"><small class="text-muted">★ ★ ★ ★ ★</small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
@@ -140,7 +140,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                                <div class="card-footer"><small class="text-muted">☆ ☆ ☆ ☆ ☆</small></div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
@@ -151,7 +151,7 @@
                                     <h5>£24.99</h5>
                                     <p class="card-text"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</span></p>
                                 </div>
-                                <div class="card-footer"><small class="text-muted"><?php echo rating(); ?></small></div>
+                                <div class="card-footer"><small class="text-muted">★ ☆ ☆ ☆ ☆</small></div>
                             </div>
                         </div>
                     </div>
