@@ -86,7 +86,7 @@
                         </div>
                         <!-- Form Submit -->
                         <div class="form-submit mt-5">
-                            <button class="btn btn-common border-secondary" type="submit" id="form-submit"><i class="material-icons mdi mdi-message-outline"></i> Send Message</button>
+                            <button class="btn border-secondary" type="submit" id="form-submit"><i class="material-icons mdi mdi-message-outline"></i> Send Message</button>
                             <div id="msgSubmit" class="h3 text-center hidden"></div>
                             <div class="clearfix"></div>
                         </div>
