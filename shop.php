@@ -162,7 +162,7 @@
                 <div class="card-body">
                   <h4 class="card-title"><a>Champion Youth Black Hoodie</a></h4>
                   <h5>£45.00</h5>
-                  <p class="card-text">
+                  <p class="card-text small">
                     <span
                       >Designed with classic Champion branding. 100%
                       Cotton.</span
@@ -186,7 +186,7 @@
                     <a>Mix/American Vintage Son31 T-Shirt</a>
                   </h4>
                   <h5>£70.00</h5>
-                  <p class="card-text">
+                  <p class="card-text small">
                     <span
                       >A wardrobe staple that you'll reach for again and again,
                       the Mix/American Vintage T-shirt is designed with a deep V
@@ -213,7 +213,7 @@
                     <a>BOSS The Scent For Him Eau De Toilette</a>
                   </h4>
                   <h5>£97.00</h5>
-                  <p class="card-text">
+                  <p class="card-text small">
                     <span
                       >Boss the scent Eau de Toilette for Men by Boss Fragrances
                       is an irresistible fragrance that invades the mind and
@@ -241,7 +241,7 @@
                     <a>Thomas Sabo Beaded Charm Club Bracelet</a>
                   </h4>
                   <h5>£40.00</h5>
-                  <p class="card-text"><span>100% Silver (Sterling).</span></p>
+                  <p class="card-text small"><span>100% Silver (Sterling).</span></p>
                 </div>
                 <div class="card-footer">
                   <small class="text-muted">★ ★ ★ ★ ★</small>
@@ -260,7 +260,7 @@
                     <a>GANT Blue Regular Oxford Shirt</a>
                   </h4>
                   <h5>£110.00</h5>
-                  <p class="card-text">
+                  <p class="card-text small">
                     <span
                       >The most versatile and classic shirt in your closet, the
                       Regular Fit Oxford Shirt is a preppy essential that can be
@@ -287,7 +287,7 @@
                 <div class="card-body">
                   <h4 class="card-title"><a>Item Six</a></h4>
                   <h5>£24.99</h5>
-                  <p class="card-text">
+                  <p class="card-text small">
                     <span
                       >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                       Amet numquam aspernatur!</span
@@ -309,7 +309,7 @@
                 <div class="card-body">
                   <h4 class="card-title"><a>Item Seven</a></h4>
                   <h5>£24.99</h5>
-                  <p class="card-text">
+                  <p class="card-text small">
                     <span
                       >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                       Amet numquam aspernatur!</span
@@ -331,7 +331,7 @@
                 <div class="card-body">
                   <h4 class="card-title"><a>Item Eight</a></h4>
                   <h5>£24.99</h5>
-                  <p class="card-text">
+                  <p class="card-text small">
                     <span
                       >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                       Amet numquam aspernatur!</span
