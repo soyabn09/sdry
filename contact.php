@@ -33,13 +33,13 @@
             <div class="row mt-5">
                 <!-- Section Titile -->
                 <div class="col-md-12 wow animated fadeInLeft" data-wow-delay=".2s">
-                    <h1 class="section-title">Love to Hear From You</h1>
+                    <h1 class="section-title">Love to Hear From You!</h1>
                 </div>
             </div>
             <div class="row">
                 <!-- Section Titile -->
                 <div class="col-md-6 mt-3 contact-widget-section2 wow animated fadeInLeft" data-wow-delay=".2s">
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content.</p>
+                    <p>You are free to contact us by email, phone or this form. We will be in the office and respond to message during our office availability times.</p>
 
                     <div class="find-widget">
                     Company: SDRY
@@ -54,7 +54,7 @@
                     Website: <a href="https://sdry.online">sdry.online</a>
                     </div>
                     <div class="find-widget">
-                    Available: Mon to Sat: 09:30 AM - 10.30 PM
+                    Available: Mon to Fri: 08:00 AM - 10:00 PM
                     </div>
                 </div>
                 <!-- contact form -->
