@@ -190,9 +190,9 @@
                     <span
                       >A wardrobe staple that you'll reach for again and again,
                       the Mix/American Vintage T-shirt is designed with a deep V
-                      neck and close fitting shape for a flattering fit. Crafted
-                      from comfortable thick cotton that is perfect for wearing
-                      alone or layering on cooler days.</span
+                      neck and a close-fitting shape for a flattering fit.
+                      Crafted from comfortable thick cotton that is perfect for
+                      wearing alone or layering on cooler days.</span
                     ><br /><br /><span>100% Cotton.</span>
                   </p>
                 </div>
