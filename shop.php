@@ -283,7 +283,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="/assets/six.jpg"
+                  src="/assets/six.png"
                   alt="Item Six"
                 />
                 <div class="card-body">
@@ -302,7 +302,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="/assets/seven.jpg"
+                  src="/assets/seven.png"
                   alt="Item Seven"
                 />
                 <div class="card-body">
@@ -321,7 +321,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="/assets/eight.jpg"
+                  src="/assets/eight.png"
                   alt="Item Eight"
                 />
                 <div class="card-body">
