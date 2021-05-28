@@ -107,8 +107,8 @@
               <div class="carousel-item active">
                 <img
                   class="d-block img-fluid"
-                  src="/assets/slide1.png"
-                  alt="First slide"
+                  src="/assets/season.png"
+                  alt="Seasonal Items Out Now"
                 />
               </div>
               <div class="carousel-item">
