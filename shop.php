@@ -289,7 +289,7 @@
             <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
               <img class="img-fluid card-img-top"
-                  src="/assets/dress.png"
+                  src="/assets/dress.jpg"
                   alt="Chantel printed slee multi-coloured"
                 />
                 <div class="card-body">
