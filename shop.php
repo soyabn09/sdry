@@ -246,26 +246,20 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
+            <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
               <img class="img-fluid card-img-top"
-                  src="/assets/oxford.jpg"
-                  alt="GANT Blue Regular Oxford Shirt"
+                  src="/assets/polo.jpg"
+                  alt="Men's Cotton Riviera Polo Shirt in Navy"
                 />
                 <div class="card-body">
                   <h5 class="card-title">
-                    <a>GANT Blue Regular Oxford Shirt</a>
+                    <a>Men's Cotton Riviera Polo Shirt in Navy</a>
                   </h5>
                   <h6>£110.00</h6>
                   <p class="card-text small">
                     <span
-                      >The most versatile and classic shirt in your closet, the
-                      Regular Fit Oxford Shirt is a preppy essential that can be
-                      dressed up or down. Impeccably crafted and designed to
-                      flatter, this shirt is a timeless icon that will always be
-                      in style.</span
-                    ><br /><br /><span>Machine washable.</span><br /><br /><span
-                      >100% Cotton.</span
+                      >The Riviera Polo Shirt is the essence of James Bond style. Originally tailored for Daniel Craig in Casino Royale, this polo is made from a lightweight cotton mesh that is not only breathable but extremely soft. Cut for a slim fit and finished with matching buttons and a chest pocket. A modern classic.</span
                     >
                   </p>
                 </div>
@@ -292,7 +286,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
+            <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
               <img class="img-fluid card-img-top"
                   src="/assets/dress.png"
@@ -313,14 +307,14 @@
             <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
               <img class="img-fluid card-img-top"
-                  src="/assets/eight.png"
-                  alt="Item Eight"
+                  src="/assets/gold.png"
+                  alt="Toast Lento Print Dress, Gold"
                 />
                 <div class="card-body">
-                  <h5 class="card-title"><a>Item Eight</a></h5>
-                  <h6>£24.99</h6>
+                  <h5 class="card-title"><a>Toast Lento Print Dress, Gold</a></h5>
+                  <h6>£200.00</h6>
                   <p class="card-text small">
-                    <span>Item Eight Desc</span>
+                    <span>Made from light and drapey cupro viscose twill with a leafy, floral print throughout, this dress from Toast has an easy cut that you can style up or down. Shaped with raglan sleeves, an elegant V-neckline and curved waist seam at the front with a flowing box pleat, inverted pleats into the back neck adds structure with handy slanted side pockets to finish.</span><br/><br/><span>At Toast, viscose is used for its drapiness and movement, and for its ability to carry intricate prints and rich colour.</span>
                   </p>
                 </div>
                 <div class="card-footer">
