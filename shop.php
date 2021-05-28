@@ -282,7 +282,7 @@
                 />
                 <div class="card-body">
                   <h5 class="card-title"><a>Black Tux</a></h5>
-                  <h6>£230.00</h6>
+                  <h6>£1300.00</h6>
                   <p class="card-text small">
                     <span>Presented in a choice of equally refined black or charcoal grey finished with traditional contrast-trim detailing, this evening suit is a cut above the rest. It's woven in Italy by prestigious mill Trabaldo Togna from their innovative natural stretch wool, and so promises lasting comfort alongside its impeccable styling.</span>
                   </p>
@@ -295,14 +295,14 @@
             <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
               <img class="img-fluid card-img-top"
-                  src="/assets/seven.png"
-                  alt="Item Seven"
+                  src="/assets/dress.png"
+                  alt="Chantel printed slee multi-coloured"
                 />
                 <div class="card-body">
-                  <h5 class="card-title"><a>Item Seven</a></h5>
-                  <h6>£24.99</h6>
+                  <h5 class="card-title"><a>Chantel printed slee multi-coloured</a></h5>
+                  <h6>£130.00</h6>
                   <p class="card-text small">
-                    <span>Item Seven Desc</span>
+                    <span>You can't beat florals for occasion season and this is a piece that ticks all our RSVPs: Weddings parties race days or graduations we can't think of an event that this dress wouldn't look great at. Model Wears Model wears UK size 10 and is 5'7"/170cm. Dress Style Shift. Neckline Round Neck. Sleeve Short Sleeve. Length 108cm shoulder neck point to hem</span>
                   </p>
                 </div>
                 <div class="card-footer">
