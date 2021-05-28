@@ -58,8 +58,8 @@
           <div class="col-lg-5">
             <img
               class="img-fluid rounded z-depth-2"
-              src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/new/img(21).jpg"
-              alt="sample"
+              src="/assets/team.jpg"
+              alt="SDRY Team"
             />
           </div>
           <!-- Grid column -->

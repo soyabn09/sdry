@@ -107,21 +107,21 @@
               <div class="carousel-item active">
                 <img
                   class="d-block img-fluid"
-                  src="https://via.placeholder.com/900x350"
+                  src="/assets/slide1.png"
                   alt="First slide"
                 />
               </div>
               <div class="carousel-item">
                 <img
                   class="d-block img-fluid"
-                  src="https://via.placeholder.com/900x350"
+                  src="/assets/slide2.png"
                   alt="Second slide"
                 />
               </div>
               <div class="carousel-item">
                 <img
                   class="d-block img-fluid"
-                  src="https://via.placeholder.com/900x350"
+                  src="/assets/slide3.png"
                   alt="Third slide"
                 />
               </div>
@@ -156,7 +156,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/371290s.jpg"
+                  src="/assets/hoodie.jpg"
                   alt="Champion Youth Black Hoodie"
                 />
                 <div class="card-body">
@@ -178,7 +178,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/634699s.jpg"
+                  src="/assets/shirt.jpg"
                   alt="Mix/American Vintage Son31 T-Shirt"
                 />
                 <div class="card-body">
@@ -205,7 +205,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="https://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/L05906s.jpg"
+                  src="/assets/boss.jpg"
                   alt="BOSS The Scent For Him Eau De Toilette"
                 />
                 <div class="card-body">
@@ -233,7 +233,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/L07744s.jpg"
+                  src="/assets/bracelet.jpg"
                   alt="Thomas Sabo Beaded Charm Club Bracelet"
                 />
                 <div class="card-body">
@@ -252,7 +252,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/AltItemShot/315x472/M08467s.jpg"
+                  src="/assets/oxford.jpg"
                   alt="GANT Blue Regular Oxford Shirt"
                 />
                 <div class="card-body">
@@ -281,7 +281,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="https://via.placeholder.com/700x400"
+                  src="/assets/six.jpg"
                   alt="Item Six"
                 />
                 <div class="card-body">
@@ -289,8 +289,7 @@
                   <h5>£24.99</h5>
                   <p class="card-text small">
                     <span
-                      >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Amet numquam aspernatur!</span
+                      >Item Six Desc</span
                     >
                   </p>
                 </div>
@@ -303,7 +302,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="https://via.placeholder.com/700x400"
+                  src="/assets/seven.jpg"
                   alt="Item Seven"
                 />
                 <div class="card-body">
@@ -311,8 +310,7 @@
                   <h5>£24.99</h5>
                   <p class="card-text small">
                     <span
-                      >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Amet numquam aspernatur!</span
+                      >Item Seven Desc</span
                     >
                   </p>
                 </div>
@@ -325,7 +323,7 @@
               <div class="card h-100">
                 <img
                   class="card-img-top"
-                  src="https://via.placeholder.com/700x400"
+                  src="/assets/eight.jpg"
                   alt="Item Eight"
                 />
                 <div class="card-body">
@@ -333,8 +331,7 @@
                   <h5>£24.99</h5>
                   <p class="card-text small">
                     <span
-                      >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Amet numquam aspernatur!</span
+                      >Item Eight Desc</span
                     >
                   </p>
                 </div>
