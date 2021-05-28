@@ -228,7 +228,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
               <div class="card h-100">
-                <img width="700" height="400" class="card-img-top"
+              <img class="img-fluid card-img-top"
                   src="/assets/bracelet.jpg"
                   alt="Thomas Sabo Beaded Charm Club Bracelet"
                 />
@@ -248,7 +248,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
-                <img width="700" height="400" class="card-img-top"
+              <img class="img-fluid card-img-top"
                   src="/assets/oxford.jpg"
                   alt="GANT Blue Regular Oxford Shirt"
                 />
@@ -276,7 +276,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
-                <img width="700" height="400" class="card-img-top"
+              <img class="img-fluid card-img-top"
                   src="/assets/six.png"
                   alt="Item Six"
                 />
@@ -294,7 +294,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
-                <img width="700" height="400" class="card-img-top"
+              <img class="img-fluid card-img-top"
                   src="/assets/seven.png"
                   alt="Item Seven"
                 />
@@ -312,7 +312,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
-                <img width="700" height="400" class="card-img-top"
+              <img class="img-fluid card-img-top"
                   src="/assets/eight.png"
                   alt="Item Eight"
                 />
