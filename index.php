@@ -106,7 +106,7 @@
                 </div>
                 <h2 class="fs-4 fw-bold">Great Support</h2>
                 <p class="mb-0">
-                  We have had recieved no complaints from any of our clients!
+                  We have had received no complaints from any of our clients!
                 </p>
               </div>
             </div>
@@ -136,8 +136,7 @@
                 </div>
                 <h2 class="fs-4 fw-bold">A business you can trust</h2>
                 <p class="mb-0">
-                  We have started this busienss in 1979 and have no idea of
-                  ending it.
+                  We have started this business in 1979 and have no idea of ending it.
                 </p>
               </div>
             </div>
