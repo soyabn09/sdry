@@ -87,7 +87,7 @@
               free labour it is.
             </p>
             <p>
-              This is a story about Donald not Donald Trump but Donald Richeese
+              This is a story about Donald, not Donald Trump but Donald Richeese
               yes um so he once went off to somewhere land and came back from uh
               some-other-place land anyways he then did some work at the
               wowowowow company and then went and made sdry and some stupid
