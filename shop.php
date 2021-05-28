@@ -277,14 +277,14 @@
             <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
               <img class="img-fluid card-img-top"
-                  src="/assets/six.png"
-                  alt="Item Six"
+                  src="/assets/suit.jpg"
+                  alt="Black Tux"
                 />
                 <div class="card-body">
-                  <h5 class="card-title"><a>Item Six</a></h5>
-                  <h6>£24.99</h6>
+                  <h5 class="card-title"><a>Black Tux</a></h5>
+                  <h6>£230.00</h6>
                   <p class="card-text small">
-                    <span>Item Six Desc</span>
+                    <span>Presented in a choice of equally refined black or charcoal grey finished with traditional contrast-trim detailing, this evening suit is a cut above the rest. It's woven in Italy by prestigious mill Trabaldo Togna from their innovative natural stretch wool, and so promises lasting comfort alongside its impeccable styling.</span>
                   </p>
                 </div>
                 <div class="card-footer">
