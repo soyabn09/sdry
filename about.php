@@ -50,7 +50,7 @@
     <main>
       <div class="container mt-4 mb-5">
         <h3 class="text-center py-3 mb-5">
-          A company that strives on making their clients happy and geting paid.
+        A company that strives on making its clients happy and getting paid.
         </h3>
         <!-- Grid row -->
         <div class="row">
