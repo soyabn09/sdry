@@ -154,7 +154,8 @@
           <div class="row">
             <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
               <div class="card h-100">
-                <img class="img-fluid card-img-top"
+                <img
+                  class="img-fluid card-img-top"
                   src="/assets/hoodie.jpg"
                   alt="Champion Youth Black Hoodie"
                 />
@@ -175,7 +176,8 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
               <div class="card h-100">
-              <img class="img-fluid card-img-top"
+                <img
+                  class="img-fluid card-img-top"
                   src="/assets/shirt.jpg"
                   alt="Mix/American Vintage Son31 T-Shirt"
                 />
@@ -201,7 +203,8 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
               <div class="card h-100">
-              <img class="img-fluid card-img-top"
+                <img
+                  class="img-fluid card-img-top"
                   src="/assets/boss.jpg"
                   alt="BOSS The Scent For Him Eau De Toilette"
                 />
@@ -228,7 +231,8 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
               <div class="card h-100">
-              <img class="img-fluid card-img-top"
+                <img
+                  class="img-fluid card-img-top"
                   src="/assets/bracelet.jpg"
                   alt="Thomas Sabo Beaded Charm Club Bracelet"
                 />
@@ -248,7 +252,8 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
-              <img class="img-fluid card-img-top"
+                <img
+                  class="img-fluid card-img-top"
                   src="/assets/polo.jpg"
                   alt="Men's Cotton Riviera Polo Shirt in Navy"
                 />
@@ -259,7 +264,12 @@
                   <h6>£110.00</h6>
                   <p class="card-text small">
                     <span
-                      >The Riviera Polo Shirt is the essence of James Bond style. Originally tailored for Daniel Craig in Casino Royale, this polo is made from a lightweight cotton mesh that is not only breathable but extremely soft. Cut for a slim fit and finished with matching buttons and a chest pocket. A modern classic.</span
+                      >The Riviera Polo Shirt is the essence of James Bond
+                      style. Originally tailored for Daniel Craig in Casino
+                      Royale, this polo is made from a lightweight cotton mesh
+                      that is not only breathable but extremely soft. Cut for a
+                      slim fit and finished with matching buttons and a chest
+                      pocket. A modern classic.</span
                     >
                   </p>
                 </div>
@@ -270,7 +280,8 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
-              <img class="img-fluid card-img-top"
+                <img
+                  class="img-fluid card-img-top"
                   src="/assets/suit.jpg"
                   alt="Black Tux"
                 />
@@ -278,7 +289,14 @@
                   <h5 class="card-title"><a>Black Tux</a></h5>
                   <h6>£1300.00</h6>
                   <p class="card-text small">
-                    <span>Presented in a choice of equally refined black or charcoal grey finished with traditional contrast-trim detailing, this evening suit is a cut above the rest. It's woven in Italy by prestigious mill Trabaldo Togna from their innovative natural stretch wool, and so promises lasting comfort alongside its impeccable styling.</span>
+                    <span
+                      >Presented in a choice of equally refined black or
+                      charcoal grey finished with traditional contrast-trim
+                      detailing, this evening suit is a cut above the rest. It's
+                      woven in Italy by prestigious mill Trabaldo Togna from
+                      their innovative natural stretch wool, and so promises
+                      lasting comfort alongside its impeccable styling.</span
+                    >
                   </p>
                 </div>
                 <div class="card-footer">
@@ -288,15 +306,26 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
-              <img class="img-fluid card-img-top"
+                <img
+                  class="img-fluid card-img-top"
                   src="/assets/dress.jpg"
                   alt="Chantel printed slee multi-coloured"
                 />
                 <div class="card-body">
-                  <h5 class="card-title"><a>Chantel printed slee multi-coloured</a></h5>
+                  <h5 class="card-title">
+                    <a>Chantel printed slee multi-coloured</a>
+                  </h5>
                   <h6>£130.00</h6>
                   <p class="card-text small">
-                    <span>You can't beat florals for occasion season and this is a piece that ticks all our RSVPs: Weddings parties race days or graduations we can't think of an event that this dress wouldn't look great at. Model Wears Model wears UK size 10 and is 5'7"/170cm. Dress Style Shift. Neckline Round Neck. Sleeve Short Sleeve. Length 108cm shoulder neck point to hem</span>
+                    <span
+                      >You can't beat florals for occasion season and this is a
+                      piece that ticks all our RSVPs: Weddings parties race days
+                      or graduations we can't think of an event that this dress
+                      wouldn't look great at. Model Wears Model wears UK size 10
+                      and is 5'7"/170cm. Dress Style Shift. Neckline Round Neck.
+                      Sleeve Short Sleeve. Length 108cm shoulder neck point to
+                      hem</span
+                    >
                   </p>
                 </div>
                 <div class="card-footer">
@@ -306,15 +335,30 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
-              <img class="img-fluid card-img-top"
+                <img
+                  class="img-fluid card-img-top"
                   src="/assets/gold.jpg"
                   alt="Toast Lento Print Dress, Gold"
                 />
                 <div class="card-body">
-                  <h5 class="card-title"><a>Toast Lento Print Dress, Gold</a></h5>
+                  <h5 class="card-title">
+                    <a>Toast Lento Print Dress, Gold</a>
+                  </h5>
                   <h6>£200.00</h6>
                   <p class="card-text small">
-                    <span>Made from light and drapey cupro viscose twill with a leafy, floral print throughout, this dress from Toast has an easy cut that you can style up or down. Shaped with raglan sleeves, an elegant V-neckline and curved waist seam at the front with a flowing box pleat, inverted pleats into the back neck adds structure with handy slanted side pockets to finish.</span><br/><br/><span>At Toast, viscose is used for its drapiness and movement, and for its ability to carry intricate prints and rich colour.</span>
+                    <span
+                      >Made from light and drapey cupro viscose twill with a
+                      leafy, floral print throughout, this dress from Toast has
+                      an easy cut that you can style up or down. Shaped with
+                      raglan sleeves, an elegant V-neckline and curved waist
+                      seam at the front with a flowing box pleat, inverted
+                      pleats into the back neck adds structure with handy
+                      slanted side pockets to finish.</span
+                    ><br /><br /><span
+                      >At Toast, viscose is used for its drapiness and movement,
+                      and for its ability to carry intricate prints and rich
+                      colour.</span
+                    >
                   </p>
                 </div>
                 <div class="card-footer">
