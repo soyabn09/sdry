@@ -154,7 +154,7 @@
           <div class="row">
             <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
               <div class="card h-100">
-                <img width="700" height="400" class="card-img-top"
+                <img class="img-fluid card-img-top"
                   src="/assets/hoodie.jpg"
                   alt="Champion Youth Black Hoodie"
                 />
@@ -175,7 +175,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
               <div class="card h-100">
-                <img width="700" height="400" class="card-img-top"
+              <img class="img-fluid card-img-top"
                   src="/assets/shirt.jpg"
                   alt="Mix/American Vintage Son31 T-Shirt"
                 />
@@ -201,7 +201,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
               <div class="card h-100">
-                <img width="700" height="400" class="card-img-top"
+              <img class="img-fluid card-img-top"
                   src="/assets/boss.jpg"
                   alt="BOSS The Scent For Him Eau De Toilette"
                 />
