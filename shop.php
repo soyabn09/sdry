@@ -154,8 +154,7 @@
           <div class="row">
             <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
               <div class="card h-100">
-                <img
-                  class="card-img-top"
+                <img width="700" height="400" class="card-img-top"
                   src="/assets/hoodie.jpg"
                   alt="Champion Youth Black Hoodie"
                 />
@@ -176,8 +175,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv released">
               <div class="card h-100">
-                <img
-                  class="card-img-top"
+                <img width="700" height="400" class="card-img-top"
                   src="/assets/shirt.jpg"
                   alt="Mix/American Vintage Son31 T-Shirt"
                 />
@@ -203,8 +201,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
               <div class="card h-100">
-                <img
-                  class="card-img-top"
+                <img width="700" height="400" class="card-img-top"
                   src="/assets/boss.jpg"
                   alt="BOSS The Scent For Him Eau De Toilette"
                 />
@@ -231,8 +228,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv gifts">
               <div class="card h-100">
-                <img
-                  class="card-img-top"
+                <img width="700" height="400" class="card-img-top"
                   src="/assets/bracelet.jpg"
                   alt="Thomas Sabo Beaded Charm Club Bracelet"
                 />
@@ -252,8 +248,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
-                <img
-                  class="card-img-top"
+                <img width="700" height="400" class="card-img-top"
                   src="/assets/oxford.jpg"
                   alt="GANT Blue Regular Oxford Shirt"
                 />
@@ -281,8 +276,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv stock">
               <div class="card h-100">
-                <img
-                  class="card-img-top"
+                <img width="700" height="400" class="card-img-top"
                   src="/assets/six.png"
                   alt="Item Six"
                 />
@@ -300,8 +294,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
-                <img
-                  class="card-img-top"
+                <img width="700" height="400" class="card-img-top"
                   src="/assets/seven.png"
                   alt="Item Seven"
                 />
@@ -319,8 +312,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 filterDiv season">
               <div class="card h-100">
-                <img
-                  class="card-img-top"
+                <img width="700" height="400" class="card-img-top"
                   src="/assets/eight.png"
                   alt="Item Eight"
                 />
