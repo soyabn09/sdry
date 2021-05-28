@@ -264,7 +264,7 @@
                   <h6>£110.00</h6>
                   <p class="card-text small">
                     <span
-                      >The Riviera Polo Shirt is the essence of James Bond
+                      >The Riviera Polo Shirt is the essence of the James Bond
                       style. Originally tailored for Daniel Craig in Casino
                       Royale, this polo is made from a lightweight cotton mesh
                       that is not only breathable but extremely soft. Cut for a
@@ -321,10 +321,7 @@
                       >You can't beat florals for occasion season and this is a
                       piece that ticks all our RSVPs: Weddings parties race days
                       or graduations we can't think of an event that this dress
-                      wouldn't look great at. Model Wears Model wears UK size 10
-                      and is 5'7"/170cm. Dress Style Shift. Neckline Round Neck.
-                      Sleeve Short Sleeve. Length 108cm shoulder neck point to
-                      hem</span
+                      wouldn't look great at.</span
                     >
                   </p>
                 </div>
@@ -355,9 +352,9 @@
                       pleats into the back neck adds structure with handy
                       slanted side pockets to finish.</span
                     ><br /><br /><span
-                      >At Toast, viscose is used for its drapiness and movement,
-                      and for its ability to carry intricate prints and rich
-                      colour.</span
+                      >At Toast, viscose is used for its droopiness and
+                      movement, and for its ability to carry intricate prints
+                      and rich colour.</span
                     >
                   </p>
                 </div>
