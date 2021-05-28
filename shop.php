@@ -114,15 +114,15 @@
               <div class="carousel-item">
                 <img
                   class="d-block img-fluid"
-                  src="/assets/slide2.png"
-                  alt="Second slide"
+                  src="/assets/code.png"
+                  alt="Use code HELP for 90% off"
                 />
               </div>
               <div class="carousel-item">
                 <img
                   class="d-block img-fluid"
-                  src="/assets/slide3.png"
-                  alt="Third slide"
+                  src="/assets/new.png"
+                  alt="New Items Released"
                 />
               </div>
             </div>
