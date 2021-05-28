@@ -136,7 +136,8 @@
                 </div>
                 <h2 class="fs-4 fw-bold">A business you can trust</h2>
                 <p class="mb-0">
-                  We have started this business in 1979 and have no idea of ending it.
+                  We have started this business in 1979 and have no idea of
+                  ending it.
                 </p>
               </div>
             </div>
@@ -153,7 +154,10 @@
     <?php include 'functions/copyright.php' ?>
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; SDRY <?php auto_copyright("1979"); ?></p>
+        <p class="m-0 text-center text-white">
+          Copyright &copy; SDRY
+          <?php auto_copyright("1979"); ?>
+        </p>
       </div>
     </footer>
     <!-- Bootstrap core JS-->

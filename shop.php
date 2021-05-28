@@ -241,7 +241,9 @@
                     <a>Thomas Sabo Beaded Charm Club Bracelet</a>
                   </h4>
                   <h5>£40.00</h5>
-                  <p class="card-text small"><span>100% Silver (Sterling).</span></p>
+                  <p class="card-text small">
+                    <span>100% Silver (Sterling).</span>
+                  </p>
                 </div>
                 <div class="card-footer">
                   <small class="text-muted">★ ★ ★ ★ ★</small>
@@ -288,9 +290,7 @@
                   <h4 class="card-title"><a>Item Six</a></h4>
                   <h5>£24.99</h5>
                   <p class="card-text small">
-                    <span
-                      >Item Six Desc</span
-                    >
+                    <span>Item Six Desc</span>
                   </p>
                 </div>
                 <div class="card-footer">
@@ -309,9 +309,7 @@
                   <h4 class="card-title"><a>Item Seven</a></h4>
                   <h5>£24.99</h5>
                   <p class="card-text small">
-                    <span
-                      >Item Seven Desc</span
-                    >
+                    <span>Item Seven Desc</span>
                   </p>
                 </div>
                 <div class="card-footer">
@@ -330,9 +328,7 @@
                   <h4 class="card-title"><a>Item Eight</a></h4>
                   <h5>£24.99</h5>
                   <p class="card-text small">
-                    <span
-                      >Item Eight Desc</span
-                    >
+                    <span>Item Eight Desc</span>
                   </p>
                 </div>
                 <div class="card-footer">
@@ -348,7 +344,10 @@
     <?php include 'functions/copyright.php' ?>
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; SDRY <?php auto_copyright("1979"); ?></p>
+        <p class="m-0 text-center text-white">
+          Copyright &copy; SDRY
+          <?php auto_copyright("1979"); ?>
+        </p>
       </div>
     </footer>
     <!-- Bootstrap core JS-->
