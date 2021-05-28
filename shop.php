@@ -160,8 +160,8 @@
                   alt="Champion Youth Black Hoodie"
                 />
                 <div class="card-body">
-                  <h4 class="card-title"><a>Champion Youth Black Hoodie</a></h4>
-                  <h5>£45.00</h5>
+                  <h5 class="card-title"><a>Champion Youth Black Hoodie</a></h5>
+                  <h6>£45.00</h6>
                   <p class="card-text small">
                     <span
                       >Designed with classic Champion branding. 100%
@@ -182,10 +182,10 @@
                   alt="Mix/American Vintage Son31 T-Shirt"
                 />
                 <div class="card-body">
-                  <h4 class="card-title">
+                  <h5 class="card-title">
                     <a>Mix/American Vintage Son31 T-Shirt</a>
-                  </h4>
-                  <h5>£70.00</h5>
+                  </h5>
+                  <h6>£70.00</h6>
                   <p class="card-text small">
                     <span
                       >A wardrobe staple that you'll reach for again and again,
@@ -209,10 +209,10 @@
                   alt="BOSS The Scent For Him Eau De Toilette"
                 />
                 <div class="card-body">
-                  <h4 class="card-title">
+                  <h5 class="card-title">
                     <a>BOSS The Scent For Him Eau De Toilette</a>
-                  </h4>
-                  <h5>£97.00</h5>
+                  </h5>
+                  <h6>£97.00</h6>
                   <p class="card-text small">
                     <span
                       >Boss the scent Eau de Toilette for Men by Boss Fragrances
@@ -237,10 +237,10 @@
                   alt="Thomas Sabo Beaded Charm Club Bracelet"
                 />
                 <div class="card-body">
-                  <h4 class="card-title">
+                  <h5 class="card-title">
                     <a>Thomas Sabo Beaded Charm Club Bracelet</a>
-                  </h4>
-                  <h5>£40.00</h5>
+                  </h5>
+                  <h6>£40.00</h6>
                   <p class="card-text small">
                     <span>100% Silver (Sterling).</span>
                   </p>
@@ -258,10 +258,10 @@
                   alt="GANT Blue Regular Oxford Shirt"
                 />
                 <div class="card-body">
-                  <h4 class="card-title">
+                  <h5 class="card-title">
                     <a>GANT Blue Regular Oxford Shirt</a>
-                  </h4>
-                  <h5>£110.00</h5>
+                  </h5>
+                  <h6>£110.00</h6>
                   <p class="card-text small">
                     <span
                       >The most versatile and classic shirt in your closet, the
@@ -287,8 +287,8 @@
                   alt="Item Six"
                 />
                 <div class="card-body">
-                  <h4 class="card-title"><a>Item Six</a></h4>
-                  <h5>£24.99</h5>
+                  <h5 class="card-title"><a>Item Six</a></h5>
+                  <h6>£24.99</h6>
                   <p class="card-text small">
                     <span>Item Six Desc</span>
                   </p>
@@ -306,8 +306,8 @@
                   alt="Item Seven"
                 />
                 <div class="card-body">
-                  <h4 class="card-title"><a>Item Seven</a></h4>
-                  <h5>£24.99</h5>
+                  <h5 class="card-title"><a>Item Seven</a></h5>
+                  <h6>£24.99</h6>
                   <p class="card-text small">
                     <span>Item Seven Desc</span>
                   </p>
