@@ -325,8 +325,8 @@
                   alt="Item Eight"
                 />
                 <div class="card-body">
-                  <h4 class="card-title"><a>Item Eight</a></h4>
-                  <h5>£24.99</h5>
+                  <h5 class="card-title"><a>Item Eight</a></h5>
+                  <h6>£24.99</h6>
                   <p class="card-text small">
                     <span>Item Eight Desc</span>
                   </p>
