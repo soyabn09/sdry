@@ -5,36 +5,34 @@
 Within the head tag of the Home Page there are meta, title, link and script tags.
 
 ```html
-  <head>
-    ...
-  </head>
+<head>
+  ...
+</head>
 ```
 
 ### Meta Tags
 
-
-
 ```html
 <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <meta name="description" content="SDRY Company ¯\_(ツ)_/¯" />
-    <meta name="author" content="Soyab Nandhla" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, shrink-to-fit=no"
+/>
+<meta name="description" content="SDRY Company ¯\_(ツ)_/¯" />
+<meta name="author" content="Soyab Nandhla" />
 ```
 
 ### Title Tag
 
 ```html
-    <title>SDRY - Home</title>
+<title>SDRY - Home</title>
 ```
 
 ### Link Tags
 
 ```html
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
-    <link href="/css/styles.css" rel="stylesheet" />
+<link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+<link href="/css/styles.css" rel="stylesheet" />
 ```
 
 ### Script tags
@@ -42,3 +40,148 @@ Within the head tag of the Home Page there are meta, title, link and script tags
 ```html
 <script async src="https://arc.io/widget.min.js#BX2apmLr"></script>
 ```
+
+## Body
+
+```html
+<body>
+  ...
+</body>
+```
+
+### Nav Tags
+
+```html
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+    <a class="navbar-brand" href="/">SDRY</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarResponsive"
+      aria-controls="navbarResponsive"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="/shop">Shop</a></li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+```
+
+### Main Section
+
+```html
+<section class="pt-4">
+  <div class="container px-lg-5">
+    <div class="row gx-lg-5">
+      <div class="col-lg-6 col-xxl-4 mb-5">
+        <div class="card bg-light border-0 h-100">
+          <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+            <div
+              class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
+            >
+              <i class="bi bi-collection"></i>
+            </div>
+            <h2 class="fs-4 fw-bold">Quality</h2>
+            <p class="mb-0">
+              We provide hand quality clothing from the best of the best.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-xxl-4 mb-5">
+        <div class="card bg-light border-0 h-100">
+          <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+            <div
+              class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
+            >
+              <i class="bi bi-cloud-download"></i>
+            </div>
+            <h2 class="fs-4 fw-bold">Customizable</h2>
+            <p class="mb-0">
+              You may contact us to ask for pricing on custom designer clothing.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-xxl-4 mb-5">
+        <div class="card bg-light border-0 h-100">
+          <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+            <div
+              class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
+            >
+              <i class="bi bi-card-heading"></i>
+            </div>
+            <h2 class="fs-4 fw-bold">Made to be worn</h2>
+            <p class="mb-0">We provide the clothing for any occasion.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-xxl-4 mb-5">
+        <div class="card bg-light border-0 h-100">
+          <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+            <div
+              class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
+            >
+              <i class="bi bi-bootstrap"></i>
+            </div>
+            <h2 class="fs-4 fw-bold">Great Support</h2>
+            <p class="mb-0">
+              We have had received no complaints from any of our clients!
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-xxl-4 mb-5">
+        <div class="card bg-light border-0 h-100">
+          <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+            <div
+              class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
+            >
+              <i class="bi bi-code"></i>
+            </div>
+            <h2 class="fs-4 fw-bold">Over 100+ stores</h2>
+            <p class="mb-0">
+              We have opened up over 100+ stores worldwide.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-xxl-4 mb-5">
+        <div class="card bg-light border-0 h-100">
+          <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+            <div
+              class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
+            >
+              <i class="bi bi-patch-check"></i>
+            </div>
+            <h2 class="fs-4 fw-bold">A business you can trust</h2>
+            <p class="mb-0">
+              We have started this business in 1979 and have no idea of ending
+              it.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+```
+
+#### Rows and Columns
