@@ -85,7 +85,6 @@
         <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">
           <form
             class="shake"
-            role="form"
             method="post"
             id="contactForm"
             name="contact-form"
