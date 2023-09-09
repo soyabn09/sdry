@@ -1,13 +1,15 @@
-<?php function auto_copyright($year = 'auto')
-  {
-    if (intval($year) == 'auto') {
-          $year = date('Y');
-        }
-    if (intval($year) == date('Y')) {
-          echo intval($year);
-        }
-    if (intval($year) < date('Y')) {
-          echo intval($year) . ' - ' . date('Y');
-        }
-    if (intval($year) >
-date('Y')) { echo date('Y'); } } ?>
+<?php
+function auto_copyright($year = 'auto')
+{
+  $year = intval($year) === 'auto' ? date('Y') : intval($year);
+  $current_year = date('Y');
+
+  if ($year == $current_year) {
+    echo $year;
+  } elseif ($year < $current_year) {
+    echo $year . ' - ' . $current_year;
+  } else {
+    echo $current_year;
+  }
+}
+?>

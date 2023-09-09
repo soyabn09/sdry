@@ -58,7 +58,7 @@
           <div class="col-lg-5">
             <img
               class="img-fluid rounded z-depth-2"
-              src="/assets/team.jpg"
+              src="/assets/team.webp"
               alt="SDRY Team"
             />
           </div>

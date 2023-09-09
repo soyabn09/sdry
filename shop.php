@@ -156,7 +156,7 @@
               <div class="card h-100">
                 <img
                   class="img-fluid card-img-top"
-                  src="/assets/hoodie.jpg"
+                  src="/assets/hoodie.webp"
                   alt="Champion Youth Black Hoodie"
                 />
                 <div class="card-body">
@@ -178,7 +178,7 @@
               <div class="card h-100">
                 <img
                   class="img-fluid card-img-top"
-                  src="/assets/shirt.jpg"
+                  src="/assets/shirt.webp"
                   alt="Mix/American Vintage Son31 T-Shirt"
                 />
                 <div class="card-body">
@@ -205,7 +205,7 @@
               <div class="card h-100">
                 <img
                   class="img-fluid card-img-top"
-                  src="/assets/boss.jpg"
+                  src="/assets/boss.webp"
                   alt="BOSS The Scent For Him Eau De Toilette"
                 />
                 <div class="card-body">
@@ -233,7 +233,7 @@
               <div class="card h-100">
                 <img
                   class="img-fluid card-img-top"
-                  src="/assets/bracelet.jpg"
+                  src="/assets/bracelet.webp"
                   alt="Thomas Sabo Beaded Charm Club Bracelet"
                 />
                 <div class="card-body">
@@ -254,7 +254,7 @@
               <div class="card h-100">
                 <img
                   class="img-fluid card-img-top"
-                  src="/assets/polo.jpg"
+                  src="/assets/polo.webp"
                   alt="Men's Cotton Riviera Polo Shirt in Navy"
                 />
                 <div class="card-body">
@@ -282,7 +282,7 @@
               <div class="card h-100">
                 <img
                   class="img-fluid card-img-top"
-                  src="/assets/suit.jpg"
+                  src="/assets/suit.webp"
                   alt="Black Tux"
                 />
                 <div class="card-body">
@@ -308,7 +308,7 @@
               <div class="card h-100">
                 <img
                   class="img-fluid card-img-top"
-                  src="/assets/dress.jpg"
+                  src="/assets/dress.webp"
                   alt="Chantel printed slee multi-coloured"
                 />
                 <div class="card-body">
@@ -334,7 +334,7 @@
               <div class="card h-100">
                 <img
                   class="img-fluid card-img-top"
-                  src="/assets/gold.jpg"
+                  src="/assets/gold.webp"
                   alt="Toast Lento Print Dress, Gold"
                 />
                 <div class="card-body">
